@@ -15,5 +15,4 @@ int main() { // correct the code
    i = ch ;
    printf("i value is: %d ",i);   
 return 0;
-}
-// correct the code
+}// correct the code
